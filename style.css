@@ -5,20 +5,17 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-html{
-    height:-webkit-fill-available;
-}
 
 body{
     display: flex;
-    min-height:100vh;
+    height:100vh;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
     background-color: rgb(30, 12, 86);
     overflow: hidden;
-    height:-webkit-fill-available;
+
 }
 
 .container{
